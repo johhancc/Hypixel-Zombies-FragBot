@@ -1,0 +1,31 @@
+{
+  "name": "hypixel-zombies-fragbot",
+  "version": "3.3.1",
+  "description": "Fragbot for Hypixel Zombies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "malparidostodos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malparidostodos/Hypixel-Zombies-FragBot.git"
+  },
+  "keywords": [
+    "minecraft",
+    "hypixel",
+    "fragbot",
+    "mineflayer",
+    "zombies",
+    "alien-arcadium",
+    "bot",
+    "multiclient"
+  ],
+  "dependencies": {
+    "mineflayer": "^4.37.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
